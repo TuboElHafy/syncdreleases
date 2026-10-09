@@ -1,0 +1,11 @@
+{
+  "label": "SYNCD",
+  "packageName": "io.hammerhead.sampleext",
+  "iconUrl": "https://github.com/TuboElHafy/syncdreleases/raw/main/syncd%20icon%20transparent%20background.png",
+  "latestApkUrl": "https://github.com/TuboElHafy/syncdreleases/raw/main/Tubo_SYNCD_Hammerhead.apk",
+  "latestVersion": "0.1",
+  "latestVersionCode": 10,
+  "developer": "tubolito",
+  "description": "Extension for Tubolito SYNCD smart bicycle tubes",
+  "tags": ["performance"]
+}
